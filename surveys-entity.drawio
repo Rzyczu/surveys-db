@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-11T11:06:38.133Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:125.0) Gecko/20100101 Firefox/125.0" etag="ROtQF6c2kxuWNcF8N5eF" version="24.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-11T11:07:04.208Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:125.0) Gecko/20100101 Firefox/125.0" etag="b7TinmA7I_mklyf4vS1-" version="24.4.0" type="github">
   <diagram name="Strona-1" id="jrEpjXRtSCmRKcJhSex6">
     <mxGraphModel dx="1434" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -122,7 +122,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="fxYp8NmHOeR06VL5ywAM-36" value="FillingQuestionaries" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="310" y="330" width="160" height="116" as="geometry" />
+          <mxGeometry x="334" y="330" width="160" height="116" as="geometry" />
         </mxCell>
         <mxCell id="fxYp8NmHOeR06VL5ywAM-37" value="startTime" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" parent="fxYp8NmHOeR06VL5ywAM-36" vertex="1">
           <mxGeometry y="26" width="160" height="30" as="geometry" />
@@ -150,8 +150,8 @@
             <mxPoint x="504" y="183" as="sourcePoint" />
             <mxPoint x="610" y="198" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="510" y="388" />
-              <mxPoint x="510" y="390" />
+              <mxPoint x="550" y="390" />
+              <mxPoint x="550" y="390" />
             </Array>
           </mxGeometry>
         </mxCell>
