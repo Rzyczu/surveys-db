@@ -5,7 +5,7 @@
 ### answer
 
 - Columns:
- - id: Primary key.
+  - id: Primary key.
  - answer_date: Timestamp of when the answer was submitted.
  - value: The actual answer given.
  - option_id: Foreign key referencing option(id).
