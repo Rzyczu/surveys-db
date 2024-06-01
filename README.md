@@ -4,15 +4,15 @@
 
 ### answer
 
-#### Columns:
-- id: Primary key.
-- answer_date: Timestamp of when the answer was submitted.
-- value: The actual answer given.
-- option_id: Foreign key referencing option(id).
-- filling_questionary_id: Foreign key referencing filling_questionaries(id).
-#### Constraints:
-- Primary key on id.
-- Foreign keys on option_id and filling_questionary_id.
+- Columns:
+ - id: Primary key.
+ - answer_date: Timestamp of when the answer was submitted.
+ - value: The actual answer given.
+ - option_id: Foreign key referencing option(id).
+ - filling_questionary_id: Foreign key referencing filling_questionaries(id).
+- Constraints:
+ - Primary key on id.
+ - Foreign keys on option_id and filling_questionary_id.
 
 ### creator
 
